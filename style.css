@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    padding: 20px;
+}
+
+#imageContainer {
+    max-width: 500px;
+    margin: 20px auto;
+}
